@@ -1,5 +1,5 @@
-#自动调用api保活
-name: Auto Api
+#自动调用api保活，加密版
+name: Auto Api Secret
 
 on: 
   release:
@@ -39,19 +39,19 @@ jobs:
         sed -i '10 r configid.txt' 2.py
         sed -i '12 r configkey.txt' 2.py
     - name: Test Api #Api调用
-      run: |    
-        python 2.py
+      run: | 
         echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
+        python 2.py
         rm -f 2.py
         rm -f configid.txt
         rm -f configkey.txt
     
-    - name: commit #重新上传新token
+    - name: commit #上传新的refresh_token
       run: |
-        git config --global user.email wz.lxh@outlook.com
-        git config --global user.name wangziyingwen
+        git config --global user.email AutoupdateRobot@email.com
+        git config --global user.name AutoupdateRobot
         git add .
-        git commit -m "update new token" -a
+        git commit -m "update new refresh_token" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
