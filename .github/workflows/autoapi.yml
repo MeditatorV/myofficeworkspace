@@ -28,7 +28,7 @@ jobs:
     - name: Install requests #安装requests
       run: |
         pip install requests
-    - name: read config from secrets  #读取机密
+    - name: Read config from secrets  #读取机密
       env: 
         CONFIG_ID: ${{ secrets.CONFIG_ID }} # secrets_id 提供
         CONFIG_KEY: ${{ secrets.CONFIG_KEY }} # secrets_key 提供
