@@ -13,7 +13,6 @@ import json,sys,time
 
 
 path=sys.path[0]+r'/1.txt'
-path2=sys.path[0]+r'/time.log'
 num1 = 0
 
 def gettoken(refresh_token):
@@ -35,10 +34,7 @@ def gettoken(refresh_token):
 def main():
     fo = open(path, "r+")
     refresh_token = fo.read()
-    fo.close() 
-    fv = open(path2, "r+")
-    timelog = fv.read()
-    fv.close()
+    fo.close()
     global num1
     localtime = time.asctime( time.localtime(time.time()) )
     access_token=gettoken(refresh_token)
@@ -80,7 +76,7 @@ def main():
         if req.get(r'https://graph.microsoft.com/v1.0/me/outlook/masterCategories',headers=headers).status_code == 200:
             num1+=1
             print('10调用成功'+str(num1)+'次')
-            print('此次运行时间为 :', localtime)
+            print('此次运行结束时间为 :', localtime)
     except:
         print("pass")
         pass
