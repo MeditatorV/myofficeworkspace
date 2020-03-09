@@ -42,12 +42,12 @@ jobs:
       run: | 
         echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
         python 2.py
-    - name: Delete secrets config #删除机密文件
+    - name: Delete secrets config #删除机密
       run: | 
         rm -f 2.py
         rm -f configid.txt
         rm -f configkey.txt    
-    - name: commit #上传新的refresh_token
+    - name: Commit #上传新的refresh_token到仓库
       run: |
         git config --global user.email AutoupdateRobot@email.com
         git config --global user.name AutoupdateRobot
