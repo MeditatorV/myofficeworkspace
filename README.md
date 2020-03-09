@@ -44,15 +44,18 @@
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/机密.png)
   
 * 进入你的个人设置页面(右上角头像 Settings，不是仓库里的 Settings)，选择 Developer settings > Personal access tokens > Generate new token,
+
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/Settings.png)
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/token.png)
 
   设置名字为GITHUB_TOKEN , 然后勾选 repo , admin:repo_hook , workflow 等选项，最后点击Generate token即可。
+  
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/repo.png)
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/adminrepo.png)
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/workflow.png)
   
 * 点击右上角星星/star立马调用一次，再点击上面的Action就能看到每次的运行日志（都看下，api有没有调用到位，有没有出错）
+
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/日志.png)
 
 * 没出错的话，就搞定啦！！再看看下面的定时次数要不要修改，不打算改就不用管了。
