@@ -23,7 +23,7 @@
 
 ### 步骤 ###
 
-* 登陆/新建github账号，回到本项目页面，点击右上角fork本项目的代码到到你自己的仓库，
+* 登陆/新建github账号，回到本项目页面，点击右上角fork本项目的代码到你自己的仓库，然后你账号会出现一个一模一样的项目
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/fork.png)
   
