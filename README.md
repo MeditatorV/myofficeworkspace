@@ -58,11 +58,11 @@
 
   我设定的每6小时自动运行一次，每次调用3轮（点击右上角星星/star也可以立马调用一次），你们自行斟酌修改（我也不知道保持活跃要调用多少次、多久）：
 
-  · 定时自动启动修改地方：（在.github/workflow/autoapi.yml文件里，自行百度cron定时任务格式）
+  * 定时自动启动修改地方：（在.github/workflow/autoapi.yml文件里，自行百度cron定时任务格式）
    
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/定时.png)
    
-  · 每次轮数修改地方：（在1.py最后面）
+  * 每次轮数修改地方：（在1.py最后面）
    
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/次数.png)
   
