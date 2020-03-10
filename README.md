@@ -45,6 +45,10 @@
   ```
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/机密.png)
   
+  最终格式应该是类似这样的：
+  
+  ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/格式.png)
+  
 * 进入你的个人设置页面(右上角头像 Settings，不是仓库里的 Settings)，选择 Developer settings > Personal access tokens > Generate new token,
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/Settings.png)
