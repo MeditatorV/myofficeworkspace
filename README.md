@@ -28,7 +28,7 @@
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/fork.png)
   
-* 根据[原教程](https://blog.432100.xyz/index.php/archives/50/)获取应用id+机密（自己复制保存），并修改你自己项目里的1.txt。（不要改1.py）
+* 根据[原教程](https://blog.432100.xyz/index.php/archives/50/)获取应用id、机密、refresh_token（自己复制保存），并修改你自己项目里的1.txt。（不要改1.py）
 
    （两种方法：在线修改（推荐）。或者删掉项目里的1.txt，自己新建1.txt，填好再上传上去）
    
