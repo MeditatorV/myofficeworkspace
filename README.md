@@ -31,7 +31,7 @@
 
    （两种方法：在线修改（推荐）。或者删掉项目里的1.txt，自己新建1.txt，填好再上传上去）
    
-   > 1.txt内容应该是 OAQ....AA ，结尾不要留空格或者空行）
+   > 1.txt内容应该是开头OAQ....AA结尾 ，结尾不要留空格或者空行
   
 * 依次点击上栏Setting > Secrets > Add a new secret，新建两个secret如图：CONFIG_ID、CONFIG_KEY。
 
