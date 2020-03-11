@@ -16,7 +16,7 @@
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
 * 普通版地址：https://github.com/wangziyingwen/AutoApi
 * 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
-* 更新日志/旧版：https://github.com/wangziyingwen/Autoapi-test
+* 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
 
 ### 区别 ###
