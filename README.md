@@ -39,7 +39,7 @@
    
   然后在线编辑你项目里的1.txt，将整个refresh_token覆盖粘贴进去（里面是我的数据，先删掉或者覆盖掉）。（千万不要改1.py）
   
-    > 1.txt内容的应该是开头OAQ....AA结尾（目前我看到的都是这种格式） ，结尾不要留空格或者空行
+    > refresh_token位置如图下，复制refresh_token紧接着的双引号里的内容，不要把双引号复制进去。复制进1.txt后，留意结尾不要留空格或者空行
      
     ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/token地方.png)
   
