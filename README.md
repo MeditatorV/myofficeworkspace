@@ -18,6 +18,10 @@
 * 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
 * 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
+* 视频教程：
+      * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
+      * B站（还在审核）https://www.bilibili.com/video/av95688306/
+           
 
 ### 区别 ###
    项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
