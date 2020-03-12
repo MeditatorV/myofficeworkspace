@@ -19,8 +19,8 @@
 * 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
 * 视频教程：
-      * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
-      * B站（还在审核）https://www.bilibili.com/video/av95688306/
+   * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
+   * B站（还在审核）https://www.bilibili.com/video/av95688306/
            
 
 ### 区别 ###
