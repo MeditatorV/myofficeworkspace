@@ -14,9 +14,9 @@
 
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
-* 模仿人为应用开发版（包含升级步骤）：https://github.com/wangziyingwen/AutoApiSR
 * 普通版地址：https://github.com/wangziyingwen/AutoApi
 * 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
+* 模仿人为应用开发版（包含升级步骤）：https://github.com/wangziyingwen/AutoApiSR
 * 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
 * 视频教程：（我操作很慢，自行倍速/快进）
