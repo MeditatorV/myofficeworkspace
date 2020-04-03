@@ -1,6 +1,6 @@
 # AutoApiSecret-加密版
 
-AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
+AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
 * 本项目是建立在[原教程](https://blog.432100.xyz/index.php/archives/50/)可以正确调用api的**假设**上的，核心是paran/黑幕大佬的py脚本。
@@ -19,6 +19,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
 * 普通版地址：https://github.com/wangziyingwen/AutoApi
 * 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
 * 模仿人为应用开发版（包含升级步骤）：https://github.com/wangziyingwen/AutoApiSR
+* 超级版地址（测试)： https://github.com/wangziyingwen/AutoApiS
 * 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
 * 视频教程：（我操作很慢，自行倍速/快进）
