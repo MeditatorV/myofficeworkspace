@@ -1,6 +1,8 @@
 # AutoApiSecret-加密版
-
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
+
+# 停更
+目前e5没法续期，不知道是国外疫情还是什么情况。据说可以等过期主动联系微软验证活跃度续期。
 
 # 置顶 #
 * 本项目是建立在[原教程](https://blog.432100.xyz/index.php/archives/50/)可以正确调用api的**假设**上的，核心是paran/黑幕大佬的py脚本。
