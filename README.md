@@ -16,9 +16,9 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
 * 普通版地址：https://github.com/wangziyingwen/AutoApi
-* 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
+* 加密版地址（推荐）：https://github.com/wangziyingwen/AutoApiSecret
 * 模仿人为应用开发版（包含升级步骤）：https://github.com/wangziyingwen/AutoApiSR
-* 超级版地址（测试)： https://github.com/wangziyingwen/AutoApiS
+* 超级版地址（测试）： https://github.com/wangziyingwen/AutoApiS
 * 更新日志：https://github.com/wangziyingwen/Autoapi-test
 * 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
 * 视频教程：（我操作很慢，自行倍速/快进）
@@ -27,14 +27,14 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
            
 
 ### 区别 ###
-   项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
-
-   所以你的应用id、机密、令牌都会显示出来，不安全。
-
-   加密版，我把应用id、机密都隐藏了，令牌因为需要实时更新，隐藏不了（我不会！），安全性会高很多！
+   普通版（弃用）：密钥暴露，不在乎的话可以使用
    
-   模仿人为应用开发版，顾名思义。
+   加密版（推荐）：应用id机密加密隐藏，提高安全性
+
+   模仿人为应用开发版（不推荐） ：顾名思义，加密版的升级版。由于超级版兼容模拟版的功能，此版本处于一种尴尬位置。
    
+   超级版（不建议）：进一步升级版，增加自定义参数、模式。按目前情况，微软续订要求很低，暂时不需要启动此项目。
+
 --------------------------------------------------------------
 
 ### 步骤 ###
