@@ -89,7 +89,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/日志.png)
 
-* 第六步，没出错的话，就搞定啦！！再看看下面的定时次数要不要修改，不打算改就不用管了。
+* 第六步，没出错的话，就搞定啦！！再看看下面的定时次数要不要修改，不打算改就忽略。
 
   **然后第二天回来确认下是否自动运行了（ation里是否多出来几个）**,是的话就不用管了，完结。
   
