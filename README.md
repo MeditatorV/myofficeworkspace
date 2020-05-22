@@ -133,7 +133,8 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
   wz.lxh@outlook.com
   
-  建了个Q群：657581700，不过没人
+  Q群：657581700
+  tg群：https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg
   
   最后的最后，再次感谢黑幕/paran大佬
   
