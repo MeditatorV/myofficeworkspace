@@ -134,9 +134,9 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
   wz.lxh@outlook.com
   
-  Q群：657581700
+  Q群：657581700  （项目相关讨论）
   
-  tg群：https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg
+  tg群：https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg  （非项目相关讨论）
   
   
   最后的最后，再次感谢黑幕/paran大佬
