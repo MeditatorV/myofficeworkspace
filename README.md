@@ -24,6 +24,9 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 视频教程：（我操作很慢，自行倍速/快进）
    * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
    * B站：https://www.bilibili.com/video/av95688306/
+* Q群：657581700
+* tg群：https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg
+  
            
 
 ### 区别 ###
@@ -132,9 +135,6 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   
   代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
   wz.lxh@outlook.com
-  
-  Q群：657581700
-  tg群：https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg
   
   最后的最后，再次感谢黑幕/paran大佬
   
