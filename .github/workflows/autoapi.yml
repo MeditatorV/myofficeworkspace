@@ -4,11 +4,11 @@ name: Auto Api Secret
 on: 
   release:
     types: [published]
-  #push:
-  #  tags:
-  #  - 'v*'
-    branches: 
-      - master
+  push:
+    tags:
+    - 'v*'
+    #branches: 
+    #  - master
   schedule:
     - cron: '12 */3 * * *'
   watch:
