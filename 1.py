@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 import requests as req
 import json,sys,time
+import random
 #先注册azure应用,确保应用有以下权限:
 #files:	Files.Read.All、Files.ReadWrite.All、Sites.Read.All、Sites.ReadWrite.All
 #user:	User.Read.All、User.ReadWrite.All、Directory.Read.All、Directory.ReadWrite.All
@@ -80,5 +81,5 @@ def main():
     except:
         print("pass")
         pass
-for _ in range(5):
+for _ in range(random.randint(0,20)):
     main()
