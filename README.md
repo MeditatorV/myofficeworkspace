@@ -1,4 +1,5 @@
 # AutoApiSecret-加密版
+申请地址：https://developer.microsoft.com/zh-cn/microsoft-365/dev-program
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
