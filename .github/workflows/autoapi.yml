@@ -23,9 +23,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
     - name: Set up Python #安装python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.8
+        python-version: 3.10
     - name: Install requests #安装requests
       run: |
         pip install requests
