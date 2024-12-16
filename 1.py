@@ -12,7 +12,6 @@ import random
 
 
 
-
 path=sys.path[0]+r'/1.txt'
 num1 = 0
 
